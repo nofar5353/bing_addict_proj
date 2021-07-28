@@ -1,5 +1,5 @@
 # Bing Addict Project
-this project based on "The Movie Data Base" (TMDB) API. 
+This project based on "The Movie Data Base" (TMDB) API. 
 
-link to the website:
+Link to the website:
 http://proj.ruppin.ac.il/bgroup68/test2/tar4/pages/index.html   
