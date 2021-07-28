@@ -1,4 +1,4 @@
-# bing_addict_proj
+#Bing Addict Project
 this project based on "The Movie Data Base" (TMDB) API. 
 
 link to the website:
